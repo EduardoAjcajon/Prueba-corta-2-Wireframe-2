@@ -1,0 +1,187 @@
+.telefono {
+    width: 42.8rem;
+    height: 92.6rem;
+    margin: auto;
+    align-content: center;
+
+}
+.encabezado{
+    margin-top: 1.5rem;
+}
+.menu{
+    margin-left: 2rem;
+    margin-right: 75%;
+}
+.texto1{
+    font-size: 2rem;
+    margin-left: 2rem;
+}
+.Search{
+    display: flex;
+    justify-content: center;
+
+    flex-direction: row;
+
+}
+.busqueda{
+    background-color: rgb(255, 255, 255);
+    border: 0.5px solid rgb(175, 174, 174);
+    width: 31.6rem;
+    height: 5rem;
+    border-radius: 1rem;
+}
+.texBusqueda{
+    font-size: 1.4rem;
+    margin-top: 1.5rem;
+    margin-left: 1rem;
+    color: #b5b5b5;
+
+}
+.naranjaBusqueda{
+    background-color: #ff791a;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 1rem;
+
+    margin-left: 2rem;
+}
+.naranjaBusqueda img{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    
+}
+
+.botones{
+    margin-top: 4.3rem;
+    display: flex;
+    justify-content: center;
+
+    flex-direction: row;
+    
+}
+
+.viaje{
+    background-color: #ff791a;
+    width: 7.3rem;
+    height: 7.3rem;
+    font-size: 1.4rem;
+    margin-right: 3.2rem;
+    border-radius: 1rem;
+}
+.viaje img{
+    width: 3rem;
+    height: 3rem;
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+.viaje p{
+    color: white;
+    margin-left: 2rem;
+}
+
+.hotel{
+    background-color: #9571F6;
+    width: 7.3rem;
+    height: 7.3rem;
+    font-size: 1.4rem;
+    margin-right: 3.2rem;
+    border-radius: 1rem;
+}
+.hotel img{
+    width: 3rem;
+    height: 3rem;
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+.hotel p{
+    color: white;
+    margin-left: 2rem;
+}
+
+.comida{
+    background-color: #FF9156;
+    width: 7.3rem;
+    height: 7.3rem;
+    font-size: 1.4rem;
+    margin-right: 3.2rem;
+    border-radius: 1rem;
+}
+.comida img{
+    width: 3rem;
+    height: 3rem;
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+.comida p{
+    color: white;
+    margin-left: 2rem;
+}
+
+.evento{
+    background-color: #6168E6;
+    width: 7.3rem;
+    height: 7.3rem;
+    font-size: 1.4rem;
+    border-radius: 1rem;
+}
+.evento img{
+    width: 3rem;
+    height: 3rem;
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+.evento p{
+    color: white;
+    margin-left: 2rem;
+}
+
+.texto2{
+    margin-top: 3.8rem;
+    display: flex;
+    justify-content: center;
+
+    flex-direction: row;
+}
+
+.All{
+    font-size: 1.6rem;
+    margin-right: 7.7rem;
+}
+.textoNaranja{
+    color: #ff791a;
+    font-size: 1.6rem;
+    margin-right: 7.7rem;
+}
+.New{
+    font-size: 1.6rem;
+    margin-right: 7.7rem;
+}
+.Top{
+    font-size: 1.6rem;
+}
+
+.imagenes{
+    display: flex;
+    justify-content: center;
+
+    flex-direction: row;
+
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.piePagina{
+    display: flex;
+    justify-content: center;
+
+    flex-direction: row;
+}
+.img1{
+    margin-right: 8rem;
+}
+.img2{
+    margin-right: 8rem;
+}
+.img3{
+    margin-right: 8rem;
+}

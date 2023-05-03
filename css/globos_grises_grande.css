@@ -1,0 +1,202 @@
+.telefono {
+
+    width: 42.8rem;
+    height: 92.6rem;
+    margin: auto;
+    align-content: center;
+    display: flex;
+    position: relative;
+
+    flex-direction: column;
+        background-image: url("./img/imagen_fondo.png");
+
+}
+.volever{
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+.volverImagen{
+    background-color: rgb(255, 255, 255);
+    border-radius: 1rem;
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
+    box-shadow: 0 0 1rem   grey;
+}
+
+.arribaDescripcion{
+    display: flex;
+    justify-content: space-between;
+
+    flex-direction: row;
+    margin-bottom: 2.9rem;
+}
+.descripcion{
+    background-color: rgb(255, 255, 255);
+    margin-top: 48rem;
+    border-radius: 4rem;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.calificacion{
+    display: flex;
+    justify-content: center;
+
+    flex-direction: column;
+
+    margin-left: 2rem;
+    margin-top: 3.4rem;
+}
+.revew{
+    display: flex;
+
+    flex-direction: row;
+    margin-top: 0.7rem;
+}
+.textoRevew{
+    font-size: 1.4rem;
+    color: var(--gris);
+    margin-left: 0.3rem;
+}
+
+.arribaDerecha{
+    display: flex;
+    justify-content: center;
+
+    flex-direction: column;
+    margin-top: 3.5rem;
+    margin-right: 2rem;
+}
+.dias{
+    color: var(--gris);
+    font-size: 1.4rem;
+}
+.costo{
+    display: flex;
+    justify-content: center;
+
+    flex-direction: row;
+}
+.dolar{
+    color: var(--naranja-darck);
+    font-size: 1.8rem;
+}
+.precio{
+    font-size: 1.8rem;
+
+}
+
+.titulo{
+    font-size: 1.8rem;
+}
+.textoDescripcion{
+    color: #828282;
+    font-size: 1.2rem;
+    width: 38.4rem;
+    height: 11.1rem;
+    margin-left: 2.3rem;
+    margin-right: 2.1rem;
+    margin-bottom: 2.2rem;
+}
+
+.cuadrosDescripcion{
+    display: flex;
+    justify-content: center;
+
+    flex-direction: row;
+    margin-bottom: 2.6rem;
+}
+.cuadro1{
+    display: flex;
+    justify-content: space-around;
+
+
+    flex-direction: column;
+
+
+    height: 6.5rem;
+    width: 6.5rem;  
+    border-radius: 1rem;
+
+    box-shadow: 0 0 1rem   grey;
+}
+.caudrotexto1{
+    margin-left: 1rem;
+}
+.numero1{
+    margin-left: 2.7rem;
+}
+.cuadro2{
+    display: flex;
+    justify-content: space-around;
+
+    flex-direction: column;
+
+
+    height: 6.5rem;
+    width: 6.5rem;  
+    border-radius: 1rem;
+
+    box-shadow: 0 0 1rem   grey;
+    margin-left: 4.2rem;
+    margin-right: 4.2rem;
+}
+.caudrotexto2{
+    margin-left: 1rem;
+}
+.numero2{
+    margin-left: 2.7rem;
+}
+.cuadro3{
+    display: flex;
+    justify-content: space-around;
+
+    flex-direction: column;
+
+
+    height: 6.5rem;
+    width: 6.5rem;  
+    border-radius: 1rem;
+
+    box-shadow: 0 0 1rem   grey;
+    margin-right: 4.2rem;
+}
+.caudrotexto3{
+    margin-left: 1.2rem;
+}
+.numero3{
+    margin-left: 2.7rem;
+}
+.cuadro4{
+    display: flex;
+    justify-content: space-around;
+
+    flex-direction: column;
+
+
+    height: 6.5rem;
+    width: 6.5rem;  
+    border-radius: 1rem;
+
+    box-shadow: 0 0 1rem   grey;
+}
+.caudrotexto4{
+    margin-left: 1.3rem;
+}
+.numero4{
+    margin-left: 2.7rem;
+}
+
+
+.rectanguloNaranja{
+    background-color: #FF7A1A;
+    width: 38.7rem;
+    height: 5rem;
+    margin-left: 2rem;
+    border-radius: 1rem;
+}
+.botonnaranja{
+    font-size: 1.8rem;
+    color: white;
+    margin-left: 15rem;
+    padding-top: 1.5rem;
+}

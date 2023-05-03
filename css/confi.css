@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+:root{
+    --naranja-darck: #ff791a;
+    --morado:   #9571F6;
+    --naranja: #FF9156;
+    --azul-palido: #6168E6;
+    --negro: #292929;
+    --gris: #828282
+}
